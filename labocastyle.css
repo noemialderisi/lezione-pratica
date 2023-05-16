@@ -1,0 +1,112 @@
+body{
+    background:#F0199D;
+    
+    
+}
+
+nav{
+	
+    margin: auto;
+    
+}
+
+
+nav ul {
+    display: flex;
+    flex-direction: row;
+    list-style: none;
+    margin: 40 0 20 629;
+    padding: 0;
+    gap: 70px;
+    
+}
+
+nav li {
+   align-items: center;
+}
+
+nav a {
+    color: #333;
+    text-decoration: none;
+    font-size:20px;
+}
+
+nav a:hover {
+    color: #666;
+}
+
+header{
+    background:#F0199D;
+    position: absolute;
+    width: 100%;
+    height: 297px;
+    left: 0px;
+    top: 0px;
+    }
+
+    h1{
+        position: absolute;
+     width: 976px;
+     height: 296px;
+     left: -85px;
+     top: 0 px;
+
+     font-family: 'Inter';
+     font-style: normal;
+     font-weight: 700;
+     font-size: 96px;
+     line-height: 116px;
+     text-align: center;
+
+     color: #000;
+
+    }
+
+.ciro{
+    left: 0%;
+ width: 100%;
+    margin-top: 14%;
+    right: 0%;
+    }
+
+    .peppe{
+        display:inline-flex;
+        width: 400px;
+        height: 300px;
+        left: 0px;
+        top: 1227px;
+        
+    }
+
+    .gio{
+     position: absolute;
+        width: 557px;
+        height: 356px;
+        left: 883px;
+        top: 1652px;
+        
+    }
+
+    p{
+        position: absolute;
+width: 740px;
+height: 482px;
+left: 18px;
+top: 1572px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 29px;
+
+color: #000000;
+
+ }
+
+    
+
+
+main{
+    background: #ffffff;
+}

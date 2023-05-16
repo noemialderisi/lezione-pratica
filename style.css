@@ -1,0 +1,248 @@
+header{
+margin: 40px 0px 20px 629px;
+text-align: center;
+}
+
+ nav{
+	
+        margin: auto;
+        
+    }
+    
+    
+    nav ul {
+        display: flex;
+        flex-direction: row;
+        list-style: none;
+        margin: 40 0 20 629;
+        padding: 0;
+        gap: 70px;
+        
+    }
+    
+    nav li {
+       align-items: center;
+    }
+    
+    nav a {
+        color: #333;
+        text-decoration: none;
+        font-size:20px;
+    }
+    
+    nav a:hover {
+        color: #666;
+    }
+
+h1{
+   
+position:absolute;
+width: 633px;
+height: 116px;
+left: 437px;
+top: 64px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 70px;
+line-height: 116px;
+text-align: center;
+
+
+}
+
+.A{
+    position: absolute;
+    width: 413px;
+    height: 556px;
+    left: 72px;
+    top: 353px;
+    
+    background: url(img/cami.png);
+    border-radius: 23px;
+}
+
+.B{
+    position: absolute;
+    width: 415px;
+    height: 556px;
+    left: 510px;
+    top: 353px;
+    
+    background: url(img/karlotta.png);
+    border-radius: 23px;
+}
+
+.C{
+    position: absolute;
+width: 414px;
+height: 562px;
+left: 950px;
+top: 350px;
+
+background: url(img/la\ boca.png);
+border-radius: 23px;
+
+}
+
+.D{
+    position: absolute;
+    width: 415px;
+    height: 556px;
+    left: 72px;
+    top: 1120px;
+    
+    background: url(img/linn.png);
+    border-radius: 23px;
+}
+
+.E{
+    position: absolute;
+    width: 415px;
+    height: 556px;
+    left: 512px;
+    top: 1120px;
+    
+    background: url(img/tim.png);
+    border-radius: 23px;    
+}
+
+.F{
+    position: absolute;
+    width: 413px;
+    height: 556px;
+    left: 952px;
+    top: 1120px;
+    
+    background: url(img/xoana.png);
+    border-radius: 23px;
+    
+}
+
+
+.nome4{
+    position: absolute;
+    width: 68px;
+    height: 58px;
+    left: 246px;
+    top: 1682px;
+    
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 29px;
+    text-align: center;
+    
+    color: #000000;  
+}
+
+
+
+
+.nome1{
+
+position: absolute;
+width: 115px;
+height: 58px;
+left: 223px;
+top: 912px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 600;
+font-size: 24px;
+line-height: 29px;
+text-align: center;
+
+color: #000000;
+}
+
+
+.nome5{
+
+position: absolute;
+width: 85px;
+height: 58px;
+left: 679px;
+top: 1682px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 600;
+font-size: 24px;
+line-height: 29px;
+text-align: center;
+
+color: #000000;
+}
+
+
+
+.nome6{
+
+position: absolute;
+width: 112px;
+height: 58px;
+left: 1104px;
+top: 1682px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 600;
+font-size: 24px;
+line-height: 29px;
+text-align: center;
+
+color: #000000;
+}
+
+
+
+.nome2{
+
+position: absolute;
+width: 133px;
+height: 58px;
+left: 655px;
+top: 912px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 600;
+font-size: 24px;
+line-height: 29px;
+text-align: center;
+
+color: #000000;
+}
+
+
+
+.nome3{
+
+position: absolute;
+width: 70px;
+height: 58px;
+left: 1125px;
+top: 912px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 600;
+font-size: 24px;
+line-height: 29px;
+text-align: center;
+
+color: #000000;
+
+}
+
+main{
+    max-width: 1350px;
+    margin: 0 auto 0 auto;
+    padding: 20px;
+    align-items: center;
+    position: relative;
+}
